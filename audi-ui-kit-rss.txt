@@ -4,14 +4,14 @@
     <title>Audi UI Kit</title>
     <description>Approved UI kit for the global Audi digital ecosystem</description>
     <image>
-      <url>https://www.audi.com/content/dam/ci/Downloads_EN/audi-ui-kit-cover.jpg</url>
+      <url>https://raw.githubusercontent.com/sam-wow/ui-kit-test/master/Cover image.jpg</url>
       <title>Audi UI Kit</title>
     </image>
     <generator>Sketch</generator>
     <item>
       <title>Audi UI Kit</title>
       <pubDate>Tue, 13 Oct 2020 6:30 CET</pubDate>
-      <enclosure url="https://www.audi.com/content/dam/ci/Downloads_EN/Audi%20UI%20Kit.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="https://raw.githubusercontent.com/sam-wow/ui-kit-test/master/audi-ui-kit.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>

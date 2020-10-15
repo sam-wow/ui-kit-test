@@ -9,7 +9,7 @@
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>Audi UI Kit</title>
+      <title>Audi UI</title>
       <pubDate>Tue, 13 Oct 2020 6:30 CET</pubDate>
       <enclosure url="https://raw.githubusercontent.com/sam-wow/ui-kit-test/master/audi-ui-kit.sketch" type="application/octet-stream" sparkle:version="1.1"/>
     </item>

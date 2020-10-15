@@ -4,7 +4,7 @@
     <title>Audi UI Kit</title>
     <description>Approved UI kit for the global Audi digital ecosystem</description>
     <image>
-      <url>https://raw.githubusercontent.com/sam-wow/ui-kit-test/master/Cover image.jpg</url>
+      <url>https://raw.githubusercontent.com/sam-wow/ui-kit-test/master/Cover Image.jpg</url>
       <title>Audi UI Kit</title>
     </image>
     <generator>Sketch</generator>
